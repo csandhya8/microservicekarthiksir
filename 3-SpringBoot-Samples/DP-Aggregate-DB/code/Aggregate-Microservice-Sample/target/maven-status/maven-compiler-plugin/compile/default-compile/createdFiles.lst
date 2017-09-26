@@ -1,0 +1,3 @@
+com\aggregate\microservice\pojorest\MicroserviceController.class
+com\aggregate\microservice\ApplicationConfig.class
+com\aggregate\microservice\SpringBootMicroServiceDataApplication.class

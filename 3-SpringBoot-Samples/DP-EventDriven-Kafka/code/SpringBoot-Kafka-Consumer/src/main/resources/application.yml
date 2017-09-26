@@ -1,0 +1,7 @@
+kafka:
+  brokerAddress: localhost:9092
+  restURL: http://localhost:8077/kafka/kafkaProducerSuccess
+  responseTopic: fundTransferResponseTopic
+spring:
+  jmx:
+    enabled: false

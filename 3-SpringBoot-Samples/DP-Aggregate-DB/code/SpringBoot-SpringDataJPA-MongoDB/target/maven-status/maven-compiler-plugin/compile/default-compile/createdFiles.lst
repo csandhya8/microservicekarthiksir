@@ -1,0 +1,4 @@
+com\springboot\springdatajpa\controller\BookingController.class
+com\springboot\springdatajpa\models\Booking.class
+com\springboot\springdatajpa\models\BookingRepository.class
+com\springboot\springdatajpa\SpringBootMongoDbApplication.class
